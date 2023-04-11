@@ -1,7 +1,8 @@
 # DV_Lab_3
 
 
-Plots 
+Plots:
+
 All the plots have legend or you can hover over a point to show not only its name but also its stats or both.
 
 ![image](https://user-images.githubusercontent.com/100991200/231250220-709792d8-66cb-4120-a564-2f031ef8c8bb.png)
